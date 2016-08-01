@@ -1,0 +1,762 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"btn-g",
+				"bs3-input-group	bs3-input-group"
+			],
+			[
+				"btn-",
+				"btn-success"
+			],
+			[
+				"GIT",
+				"Git"
+			],
+			[
+				"file_",
+				"file_again〔variable〕"
+			],
+			[
+				"sli",
+				"slices_per_pizza"
+			],
+			[
+				"vo",
+				"vowel_count"
+			],
+			[
+				"founded",
+				"founded_date"
+			],
+			[
+				"pub",
+				"pub_date"
+			],
+			[
+				"auto",
+				"auto_now_add"
+			],
+			[
+				"uniu",
+				"unique_for_month"
+			],
+			[
+				"For",
+				"ForeignKey"
+			],
+			[
+				"startup",
+				"Startup"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"tag",
+				"Tag"
+			],
+			[
+				"TEMPLATE_",
+				"TEMPLATE_DIRS"
+			],
+			[
+				"Date",
+				"datetime"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"m",
+				"max_length"
+			],
+			[
+				"sa",
+				"say_to_grandpa"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"dea",
+				"deathStarClick"
+			],
+			[
+				"div",
+				"divLeia"
+			],
+			[
+				"he",
+				"heroes_div"
+			],
+			[
+				"heroe",
+				"Heroes"
+			],
+			[
+				"heroes",
+				"heroes_div"
+			],
+			[
+				"getEle",
+				"getElementsByClassName"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"set",
+				"setAttribute"
+			],
+			[
+				"death",
+				"deathStar"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fizz",
+				"FizzBuzz"
+			],
+			[
+				"font",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 7894,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 390.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"mar",
+				"Markdown HTML Preview"
+			],
+			[
+				"mark",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 604.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/marc/Dropbox/Sites/mirabello.github.io",
+		"/home/marc/Dropbox/Sites/mirabello.github.io/css"
+	],
+	"file_history":
+	[
+		"/home/marc/Dropbox/Sites/mirabello.github.io/tempGreyTheme.md",
+		"/home/marc/Dropbox/Sites/mirabello.github.io/js/grayscale.js",
+		"/home/marc/Dropbox/Sites/mirabello.github.io/css/grayscale.css",
+		"/home/marc/Dropbox/Sites/mirabello.github.io/index.html",
+		"/home/marc/Dropbox/Projects/IRAfam/01-FizzBuzz/README.md",
+		"/home/marc/Dropbox/Projects/IRAfam/01-FizzBuzz/Fizz-Buzz test.md",
+		"/home/marc/Dropbox/Projects/ZedShawLPTHW/ex15a.py",
+		"/home/marc/Dropbox/Projects/ZedShawLPTHW/ex15.py",
+		"/home/marc/Dropbox/Projects/ZedShawLPTHW/ex15-sample.txt",
+		"/home/marc/Dropbox/Sites/mirabello.github.io/index bootstrap template.html",
+		"/home/marc/888g7kef",
+		"/home/marc/Dropbox/Projects/ZedShawLPTHW/ex14.py",
+		"/home/marc/Dropbox/Projects/ZedShawLPTHW/ex13.py",
+		"/home/marc/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/marc/Dropbox/JOBsearch/_RESUME/marioira0.md",
+		"/home/marc/Dropbox/Sites/mirabello.github.io/text.html",
+		"/home/marc/Dropbox/JOBsearch/_RESUME/marioira0 FORMATTING.md",
+		"/home/marc/Dropbox/Sites/mirabello.github.io/test.html",
+		"/home/marc/Dropbox/Sites/mirabello/README.md",
+		"/home/marc/.cache/.fr-zTWvHG/node-v4.4.7-linux-x64/README.md",
+		"/home/marc/Dropbox/Sites/mirabello/index.html",
+		"/home/marc/.config/sublime-text-3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/home/marc/.config/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
+		"/home/marc/.config/sublime-text-3/Packages/User/MarkdownPreview.sublime-settings",
+		"/home/marc/Dropbox/Projects/Sentdex/Data Analysis with Python and Pandas Tutorial/part 2 of 16 first pandas.py",
+		"/home/marc/Dropbox/JOBsearch/mbi.md",
+		"/home/marc/Dropbox/Projects/CodeWars/chicken and cows 8-kyu.py",
+		"/home/marc/Dropbox/fuck/bounce.py",
+		"/home/marc/Dropbox/fuck/bounce1incomplete.py",
+		"/home/marc/Dropbox/fuck/bounce_briggs.py",
+		"/home/marc/Dropbox/Projects/Tutorials/jQUERY/banas jquery ui tut.html",
+		"/home/marc/Dropbox/Projects/Tutorials/jQUERY/banas jquerytut.html",
+		"/home/marc/Dropbox/Projects/Tutorials/jQUERY/mbijquerytest.html",
+		"/home/marc/Dropbox/Projects/Tutorials/jQUERY/customers.xml",
+		"/home/marc/Dropbox/Projects/Tutorials/jQUERY/banas jquery ajax tut.html",
+		"/home/marc/Dropbox/Projects/MOOC Python Interview/Intro Python Practice Quiz Classy.py",
+		"/home/marc/Dropbox/JOBsearch/03_2016 March/mean.py",
+		"/home/marc/Dropbox/JOBsearch/03_2016 March/temp.py",
+		"/home/marc/Dropbox/Working/Python/Programming/Downloaded Repos/get-pip.py",
+		"/home/marc/Dropbox/Working/MBI/AssetPix/2016-02-10/Infiniti/infiniti writeup 04042016.html",
+		"/home/marc/Dropbox/JOBsearch/03_2016 March/seed.txt",
+		"/home/marc/Dropbox/Working/Python/Programming/Readings and Downloads/Derek Banas Python Cheatsheet.py",
+		"/home/marc/.config/sublime-text-3/Packages/User/Python3.sublime-build",
+		"/home/marc/Dropbox/nodeproj/contactlistapp/server.js",
+		"/home/marc/Dropbox/2Phase2b_Django/stamfordhackathon/readme.md",
+		"/home/marc/Dropbox/Working/MBI/ID Pix/resume stuff/mbi resume.txt",
+		"/home/marc/Dropbox/Working/Python/Programming/Readings and Downloads/Sitepoint Articles",
+		"/home/marc/Dropbox/Working/MBI/AssetPix/2016-02-10/Infiniti/infiniti writeup.txt",
+		"/home/marc/Dropbox/2Phase2b_Django/stamfordhackathon/bot2CulureBot.js",
+		"/home/marc/Dropbox/2Phase2b_Django/Closers-2015_BOTS-_Final_Byte_Project/frontend/project/settings.py",
+		"/home/marc/Dropbox/2Phase2b_Django/Closers-2015_BOTS-_Final_Byte_Project/frontend/templates/base.html",
+		"/home/marc/Dropbox/2Phase2b_Django/Closers-2015_BOTS-_Final_Byte_Project/frontend/templates/navbar.html",
+		"/home/marc/Dropbox/2Phase2b_Django/Closers-2015_BOTS-_Final_Byte_Project/frontend/templates/index.html",
+		"/home/marc/Dropbox/2Phase2b_Django/Closers-2015_BOTS-_Final_Byte_Project/frontend/users/views.py",
+		"/home/marc/Dropbox/2Phase2b_Django/Closers-2015_BOTS-_Final_Byte_Project/frontend/bots/templates/bots/index.html",
+		"/home/marc/Dropbox/2Phase2b_Django/Closers-2015_BOTS-_Final_Byte_Project/frontend/users/models.py",
+		"/home/marc/Dropbox/2Phase2b_Django/Closers-2015_BOTS-_Final_Byte_Project/frontend/users/forms.py",
+		"/home/marc/Dropbox/2Phase2b_Django/Closers-2015_BOTS-_Final_Byte_Project/frontend/manage.py",
+		"/home/marc/Dropbox/2Phase2b_Django/Closers-2015_BOTS-_Final_Byte_Project/frontend/project/FinTech Friday Demo & Graduation",
+		"/home/marc/Dropbox/2Phase2b_Django/Closers-2015_BOTS-_Final_Byte_Project/botserver/lib/config.js",
+		"/home/marc/Dropbox/2Phase2b_Django/Closers-2015_BOTS-_Final_Byte_Project/botserver/lib/configbrian.js",
+		"/home/marc/Dropbox/2Phase2b_Django/stamfordhackathon/botkit/bot.js",
+		"/home/marc/Dropbox/2Phase2b_Django/Closers-2015_BOTS-_Final_Byte_Project/botserver/lib/config2.js",
+		"/home/marc/Dropbox/2Phase2b_Django/botkit/bot1.js",
+		"/home/marc/Dropbox/2Phase2b_Django/stamfordhackathon/lib/console_logger.js",
+		"/home/marc/Dropbox/2Phase2b_Django/1Messin/DjangoUnleashed_MirabelloProj/suorganizer/organizer/views.py",
+		"/home/marc/Dropbox/2Phase2b_Django/1Messin/DjangoUnleashed_MirabelloProj/suorganizer/blog/views.py",
+		"/home/marc/Dropbox/2Phase2b_Django/1Messin/DjangoUnleashed_MirabelloProj/suorganizer/organizer/models.py",
+		"/home/marc/Dropbox/2Phase2b_Django/1Messin/DjangoUnleashed_MirabelloProj/suorganizer/blog/models.py",
+		"/home/marc/Dropbox/2Phase2b_Django/1Messin/DjangoUnleashed_MirabelloProj/suorganizer/suorganizer/urls.py",
+		"/home/marc/Dropbox/2Phase2b_Django/1Messin/DjangoUnleashed_MirabelloProj/suorganizer/suorganizer/settings.py",
+		"/home/marc/Dropbox/2Phase2b_Django/1Messin/DjangoUnleashed_MirabelloProj/suorganizer/helloworld/views.py",
+		"/home/marc/Dropbox/2Phase2b_Django/stamfordhackathon/bot1.js",
+		"/home/marc/Dropbox/2Phase2b_Django/stamfordhackathon/lib/CoreBot.js",
+		"/home/marc/Dropbox/2Phase2b_Django/stamfordhackathon/lib/Slack_web_api.js",
+		"/home/marc/Dropbox/Working/DownloadedGIT_repos/TOC_Downloaded_GIT_Repos",
+		"/home/marc/Dropbox/2Phase2b_Django/stamfordhackathon/bot.js~",
+		"/home/marc/Dropbox/2Phase2b_Django/ByteFinalProj/node_modules/botkit/examples/convo_bot.js",
+		"/home/marc/Desktop/slackbot/firstslackbot.js",
+		"/home/marc/Dropbox/2Phase2b_Django/stamfordhackathon/project/package.json",
+		"/home/marc/Desktop/ByteFinalProj/node_modules/botkit/bot.js",
+		"/home/marc/.cache/.fr-2ALgiQ/Takeout/Mail/BYTE_final_proj.mbox",
+		"/home/marc/Desktop/slack-genius/index.js",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_phase2_assessment/project/cards/urls.py",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_phase2_assessment/project/cards/models.py",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_phase2_assessment/project/cards/views.py",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_phase2_assessment/project/cards/static/cards/cards.js",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_phase2_assessment/project/cards/templates/cards/black_card.html",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_phase2_assessment/project/cards/templates/cards/white_card.html",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_phase2_assessment/project/cards/templates/cards/index.html",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_phase2_assessment/project/cards/templates/cards/response.html",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_phase2_assessment/project/project/misc",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_phase2_assessment/project/cards/static/cards/django-ajax.js",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_phase2_assessment/project/cards/templates/cards/cardsresponse.html",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_phase2_assessment/project/cards/templates/cards/wcard.html",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_phase2_assessment/project/cards/templates/cards/bcard.html",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_phase2_assessment/,gitignore",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_phase2_assessment/wcards.txt",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_phase2_assessment/bcards.txt",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_w08_d04/ajax_review/mustache/project/movies/views.py",
+		"/home/marc/Dropbox/2Phase2b_Django/1Messin/ByteClassmates/Jared/jng_w07_d04/1_todo_api/project/todo/urls.py",
+		"/home/marc/Dropbox/2Phase2b_Django/1Messin/ByteClassmates/Jared/jng_w07_d04/1_todo_api/project/todo/views.py",
+		"/home/marc/Dropbox/2Phase2b_Django/1Messin/ByteClassmates/Jared/jng_w07_d04/1_todo_api/project/todo/models.py",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_w07_d04/1_todo_apiTAKE2/project/todo/urls.py",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_w07_d04/1_todo_apiTAKE2/project/todo/views.py",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_w07_d04/1_todo_apiTAKE2/project/todo/models.py",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_w07_d05/npm-debug.log",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_w07_d05/README.md",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_w07_d04/1_todo_api/project/todo/views.py",
+		"/home/marc/Dropbox/Phase2_Django/week7-day1/exercises/1-todo-api/todo/lists/urls.py",
+		"/home/marc/Dropbox/Phase2_Django/week7-day1/exercises/1-todo-api/todo/lists/views.py",
+		"/home/marc/Dropbox/Phase2_Django/week7-day1/exercises/1-todo-api/todo/lists/models.py",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_w06_d05/project/blog/templates/blog/index.html",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_w06_d05/project/blog/templates/blog/base.html",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_w06_d05/project/blog/urls.py",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_w06_d05/project/project/urls.py",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_w06_d05/project/blog/views.py",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_w06_d05/project/blog/models.py",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_w06_d05/project/blog/forms.py",
+		"/home/marc/Dropbox/2Phase2b_Django/jng_w06_d05/project/project/settings.py",
+		"/home/mbira/Desktop/01DjangoBLOG_in_16_min/project/qblog/templates/qblog/home.html",
+		"/home/mbira/Desktop/01DjangoBLOG_in_16_min/project/project/urls.py",
+		"/home/mbira/Desktop/01DjangoBLOG_in_16_min/project/qblog/urls.py",
+		"/home/mbira/Desktop/01DjangoBLOG_in_16_min/project/qblog/admin.py",
+		"/home/mbira/Desktop/01DjangoBLOG_in_16_min/project/qblog/views.py",
+		"/home/mbira/Desktop/01DjangoBLOG_in_16_min/project/qblog/models.py",
+		"/home/mbira/Desktop/01DjangoBLOG_in_16_min/project/project/settings.py",
+		"/home/mbira/.config/sublime-text-3/Packages/Djaneiro/Settings/HTML (Django).sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/marc/Dropbox/2Phase2b_Django/jng_phase2_assessment",
+			"/home/marc/Dropbox/Phase1b_Python",
+			"/home/marc/Dropbox/2Phase2b_Django",
+			"/home/marc/Dropbox/2Phase2b_Django/1Messin",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Small",
+			"          <button type='button' class = 'btn-default'> Small </button>\n",
+			"dropdown-toggle active",
+			"meta",
+			"Byte",
+			"######",
+			"<li>\n                        <a class=\"page-scroll\" href=\"#about\">About</a>\n                    </li>",
+			"mira",
+			"navbar-fixed-top",
+			"content",
+			"src",
+			"data-spy",
+			"Test",
+			"alist",
+			" Display \"Welcome to\", course, \":\", name\n",
+			"   # if arg is blank() or NoneType\n",
+			"tophat",
+			"<h4>EXTRA SET of TIRES AND WHEELS ($1,200 value)</h4>",
+			"NOTICES",
+			"<ul></ul>",
+			"DESCRIPTION",
+			": ",
+			"# with open('seed.txt', 'r') as file_object:\n# 	for line in file_object:\n# 		contents = file_object.read().rstrip()\n# 		print (contents)\n",
+			"REPLACE_THIS_WITH_YOUR_TOKEN",
+			"title",
+			"ForeignKey",
+			"Model",
+			"admin",
+			"url",
+			"render",
+			"shortcuts",
+			"from",
+			"heblog",
+			"organizer",
+			"    'organizer',\n",
+			"start",
+			"convo",
+			"conv",
+			"close",
+			"question",
+			" res ",
+			"'res'",
+			"res",
+			"question",
+			"bcard",
+			"wcards",
+			"ShowWhiteCard",
+			"CreateBlackCard",
+			"response-template",
+			"response_div",
+			"black_div",
+			"white_div",
+			"response-template",
+			"response",
+			"response-template",
+			"ShowWhiteCard",
+			"ShowBlackCard",
+			"CreateBlack",
+			"CreateBlackCard",
+			"CreateBlack",
+			"black_card_class",
+			"ajax.js",
+			"django-ajax",
+			"django_ajax",
+			"django ajax",
+			"make a white card and return as json",
+			"Blackcard",
+			"aziz",
+			"blackcard",
+			"aziz",
+			"markitondemand",
+			"markit.com",
+			"wrapper.py",
+			"markitondemand.com",
+			"markit.com",
+			"requests.get(",
+			"import requests ",
+			"company",
+			"import requests",
+			"api ",
+			"markit",
+			"import requests",
+			"import request",
+			"requests",
+			"serIAL",
+			"GET",
+			"to_json",
+			"toJson",
+			"templates",
+			"title",
+			"blog",
+			"index",
+			"title",
+			"form",
+			"/)",
+			"alt+x\"",
+			"+f\"",
+			"+f",
+			"index",
+			"siay",
+			"terns",
+			"+x",
+			"close_all",
+			"max_length",
+			"  first_name = models.CharField(max_length=30)\n",
+			"deathStar.removeEventListener('click',deathStarClick);",
+			"findLeia",
+			"vaderAndObi",
+			"divobiwan",
+			"');",
+			"div",
+			"divobiwan",
+			"tatooine",
+			"document",
+			"millenium",
+			"divobiwan",
+			"luke",
+			"div",
+			"appendChild",
+			"createElement",
+			"appendChild",
+			"luke",
+			"topic",
+			"console.log('fizzBuzz(5);')\n",
+			"var result = 0;\n\nfor (var i = 2; i < process.argv.length; i++){\n    result += Number(process.argv[i]);\n}\n  console.log(result);"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7894,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1507,
+								1507
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1527,
+										1531
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1503,
+										1507
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 600.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "githubLandingPage.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/DjangoPROJECTS/djangoCBV.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
